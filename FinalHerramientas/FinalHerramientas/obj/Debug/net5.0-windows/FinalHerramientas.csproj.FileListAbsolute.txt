@@ -1,0 +1,124 @@
+C:\Julián\Universidad\Herramientas de programación\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.exe
+C:\Julián\Universidad\Herramientas de programación\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.deps.json
+C:\Julián\Universidad\Herramientas de programación\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.runtimeconfig.json
+C:\Julián\Universidad\Herramientas de programación\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.runtimeconfig.dev.json
+C:\Julián\Universidad\Herramientas de programación\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.dll
+C:\Julián\Universidad\Herramientas de programación\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\ref\FinalHerramientas.dll
+C:\Julián\Universidad\Herramientas de programación\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.pdb
+C:\Julián\Universidad\Herramientas de programación\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.csprojAssemblyReference.cache
+C:\Julián\Universidad\Herramientas de programación\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.Form1.resources
+C:\Julián\Universidad\Herramientas de programación\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.csproj.GenerateResource.cache
+C:\Julián\Universidad\Herramientas de programación\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Julián\Universidad\Herramientas de programación\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.AssemblyInfoInputs.cache
+C:\Julián\Universidad\Herramientas de programación\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.AssemblyInfo.cs
+C:\Julián\Universidad\Herramientas de programación\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.csproj.CoreCompileInputs.cache
+C:\Julián\Universidad\Herramientas de programación\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.dll
+C:\Julián\Universidad\Herramientas de programación\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\ref\FinalHerramientas.dll
+C:\Julián\Universidad\Herramientas de programación\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.pdb
+C:\Julián\Universidad\Herramientas de programación\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.genruntimeconfig.cache
+C:\Julián\Universidad\Herramientas de programación\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.Form2.resources
+C:\Julián\Universidad\Herramientas de programación\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.Form3.resources
+D:\Descargas\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.exe
+D:\Descargas\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.deps.json
+D:\Descargas\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.runtimeconfig.json
+D:\Descargas\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.runtimeconfig.dev.json
+D:\Descargas\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.dll
+D:\Descargas\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\ref\FinalHerramientas.dll
+D:\Descargas\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.pdb
+D:\Descargas\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.csprojAssemblyReference.cache
+D:\Descargas\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.Form1.resources
+D:\Descargas\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.Form2.resources
+D:\Descargas\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.Form3.resources
+D:\Descargas\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.csproj.GenerateResource.cache
+D:\Descargas\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.AssemblyInfoInputs.cache
+D:\Descargas\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.AssemblyInfo.cs
+D:\Descargas\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.csproj.CoreCompileInputs.cache
+D:\Descargas\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.dll
+D:\Descargas\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\ref\FinalHerramientas.dll
+D:\Descargas\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.pdb
+D:\Descargas\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.genruntimeconfig.cache
+C:\Users\user\Desktop\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.exe
+C:\Users\user\Desktop\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.deps.json
+C:\Users\user\Desktop\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.runtimeconfig.json
+C:\Users\user\Desktop\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.runtimeconfig.dev.json
+C:\Users\user\Desktop\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.dll
+C:\Users\user\Desktop\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\ref\FinalHerramientas.dll
+C:\Users\user\Desktop\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.pdb
+C:\Users\user\Desktop\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.csprojAssemblyReference.cache
+C:\Users\user\Desktop\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.Form1.resources
+C:\Users\user\Desktop\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.Form2.resources
+C:\Users\user\Desktop\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.Form3.resources
+C:\Users\user\Desktop\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.csproj.GenerateResource.cache
+C:\Users\user\Desktop\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.AssemblyInfo.cs
+C:\Users\user\Desktop\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.dll
+C:\Users\user\Desktop\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\ref\FinalHerramientas.dll
+C:\Users\user\Desktop\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.pdb
+C:\Users\user\Desktop\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.genruntimeconfig.cache
+D:\Proyectos C#\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.exe
+D:\Proyectos C#\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.deps.json
+D:\Proyectos C#\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.runtimeconfig.json
+D:\Proyectos C#\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.runtimeconfig.dev.json
+D:\Proyectos C#\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.dll
+D:\Proyectos C#\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\ref\FinalHerramientas.dll
+D:\Proyectos C#\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.pdb
+D:\Proyectos C#\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.csprojAssemblyReference.cache
+D:\Proyectos C#\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.Form1.resources
+D:\Proyectos C#\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.Form2.resources
+D:\Proyectos C#\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.Form3.resources
+D:\Proyectos C#\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.csproj.GenerateResource.cache
+D:\Proyectos C#\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos C#\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.AssemblyInfoInputs.cache
+D:\Proyectos C#\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.AssemblyInfo.cs
+D:\Proyectos C#\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.csproj.CoreCompileInputs.cache
+D:\Proyectos C#\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.dll
+D:\Proyectos C#\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\ref\FinalHerramientas.dll
+D:\Proyectos C#\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.pdb
+D:\Proyectos C#\finalHerramientas (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.genruntimeconfig.cache
+C:\Users\user\Desktop\finalHerramientas VM (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.exe
+C:\Users\user\Desktop\finalHerramientas VM (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.deps.json
+C:\Users\user\Desktop\finalHerramientas VM (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.runtimeconfig.json
+C:\Users\user\Desktop\finalHerramientas VM (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.runtimeconfig.dev.json
+C:\Users\user\Desktop\finalHerramientas VM (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.dll
+C:\Users\user\Desktop\finalHerramientas VM (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\ref\FinalHerramientas.dll
+C:\Users\user\Desktop\finalHerramientas VM (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.pdb
+C:\Users\user\Desktop\finalHerramientas VM (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.csprojAssemblyReference.cache
+C:\Users\user\Desktop\finalHerramientas VM (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.Form1.resources
+C:\Users\user\Desktop\finalHerramientas VM (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.Form2.resources
+C:\Users\user\Desktop\finalHerramientas VM (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.Form3.resources
+C:\Users\user\Desktop\finalHerramientas VM (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.Form4.resources
+C:\Users\user\Desktop\finalHerramientas VM (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.csproj.GenerateResource.cache
+C:\Users\user\Desktop\finalHerramientas VM (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\finalHerramientas VM (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\finalHerramientas VM (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.AssemblyInfo.cs
+C:\Users\user\Desktop\finalHerramientas VM (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\finalHerramientas VM (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.dll
+C:\Users\user\Desktop\finalHerramientas VM (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\ref\FinalHerramientas.dll
+C:\Users\user\Desktop\finalHerramientas VM (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.pdb
+C:\Users\user\Desktop\finalHerramientas VM (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.genruntimeconfig.cache
+C:\Users\user\Desktop\finalHerramientas VM (2)\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.Properties.Resources.resources
+C:\Users\user\Desktop\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.exe
+C:\Users\user\Desktop\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.deps.json
+C:\Users\user\Desktop\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.runtimeconfig.json
+C:\Users\user\Desktop\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.runtimeconfig.dev.json
+C:\Users\user\Desktop\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.dll
+C:\Users\user\Desktop\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\ref\FinalHerramientas.dll
+C:\Users\user\Desktop\finalHerramientas\FinalHerramientas\FinalHerramientas\bin\Debug\net5.0-windows\FinalHerramientas.pdb
+C:\Users\user\Desktop\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.csprojAssemblyReference.cache
+C:\Users\user\Desktop\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.Form1.resources
+C:\Users\user\Desktop\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.Form2.resources
+C:\Users\user\Desktop\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.Form3.resources
+C:\Users\user\Desktop\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.Form4.resources
+C:\Users\user\Desktop\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.Properties.Resources.resources
+C:\Users\user\Desktop\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.csproj.GenerateResource.cache
+C:\Users\user\Desktop\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.AssemblyInfo.cs
+C:\Users\user\Desktop\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.dll
+C:\Users\user\Desktop\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\ref\FinalHerramientas.dll
+C:\Users\user\Desktop\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.pdb
+C:\Users\user\Desktop\finalHerramientas\FinalHerramientas\FinalHerramientas\obj\Debug\net5.0-windows\FinalHerramientas.genruntimeconfig.cache
